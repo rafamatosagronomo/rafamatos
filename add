@@ -1,0 +1,7 @@
+GIT 
+
+Um sistema de controle de versão de arquivos onde varias pessoas contribuem para o desenvolvimento desse projeto.
+Cria, edita e compartilha arquivos sem que suas alterações sejam sobrescritas. 
+Isto é, editado simultaneamente por pessoas diferentes, mantendo a integridade e evitando problemas para os desenvolvedores. 
+A opção "branch", uma forma de espelhar seu trabalho, possibilita esse trabalho individualizado sem torna-lo "publico". 
+É como se estivesse em desenvolvimento. O 'merge' possibilita essa sincronia com o andamento do projeto atualizando-o.
